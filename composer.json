@@ -1,5 +1,5 @@
 {
-    "name": "jasonherndon/wptolaravel",
+    "name": "custemized/wptolaravel",
     "description": "A link between your WP site and your Laravel Database for Blogging",
      "keywords": ["laravel", "wordpress", "blog", "database", "jasonherndon", "herndon", "WPToLaravel", "wordpress to laravel", "wordprss laravel", "jaosnonjourney"],
    "license": "MIT",
@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-		"guzzlehttp/guzzle": "~5.0"	    
+		"guzzlehttp/guzzle": ">=5.0"	    
     }
 }
